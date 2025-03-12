@@ -2,6 +2,8 @@
 
 Welcome to my GitHub profile! I'm a Full Stack Junior Java Developer transitioning to Python-Django, currently working on building a web application.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=robytm25&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## About Me
 
 * I recently completed a 9-month Full Stack Java Developer course, gaining a solid foundation in backend and frontend development.
@@ -25,10 +27,6 @@ Welcome to my GitHub profile! I'm a Full Stack Junior Java Developer transitioni
 * Deepening my understanding of the Django framework and best practices.
 * Improving my Python proficiency.
 * Learning Docker containerization, implementing CI/CD pipelines.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=robytm25&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 ## Connect with Me
 
