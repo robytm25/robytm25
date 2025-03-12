@@ -29,5 +29,6 @@ Welcome to my GitHub profile! I'm a Full Stack Junior Java Developer transitioni
 ## Connect with Me
 
 * [LinkedIn] https://www.linkedin.com/in/robert-stefan-adam/
+* [GitLab] https://gitlab.com/adamrobertstefan
 
 Feel free to connect and follow my progress as I build my Python-Django skills!
