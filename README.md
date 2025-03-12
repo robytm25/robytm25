@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there 👋 I'm Robert
 
-<!--
-**robytm25/robytm25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Full Stack Junior Java Developer transitioning to Python-Django, currently working on building a web application.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I recently completed a 9-month Full Stack Java Developer course, gaining a solid foundation in backend and frontend development.
+* Currently, at _VOIS, beside my day by day workflow,  I'm diving into Python and Django, building a full-stack web application from scratch. This is a challenging but exciting opportunity to expand my skillset.
+* I'm eager to learn and grow as a developer, and I'm particularly interested in exploring the Python ecosystem and building robust web applications.
+
+## My Skills (Expanding)
+
+* **Languages:** Java, Python (learning), JavaScript, HTML, CSS, SQL
+* **Frameworks:** Spring Boot (familiar), Django (learning)
+* **Tools:** Git, IntelliJ IDEA, VS Code, Docker, SQL
+
+## Featured Projects
+
+* **Vending Machine** A Java console application simulating a vending machine. Users can select items, insert money, and receive their purchase with correct change. https://github.com/robytm25/Vendingmachine
+* **Fleet Management System** A Fleet Management System designed to track and manage a group of vehicles. It handles vehicle information, maintenance schedules, and potentially other fleet-related operations. https://github.com/robytm25/Vendingmachine
+
+## Current Focus
+
+* Building a full-stack web application using Python-Django for my team
+* Deepening my understanding of the Django framework and best practices.
+* Improving my Python proficiency.
+* Learning Docker containerization, implementing CI/CD pipelines.
+
+## Connect with Me
+
+* [LinkedIn] https://www.linkedin.com/in/robert-stefan-adam/
+
+Feel free to connect and follow my progress as I build my Python-Django skills!
