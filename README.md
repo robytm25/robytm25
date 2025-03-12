@@ -26,6 +26,8 @@ Welcome to my GitHub profile! I'm a Full Stack Junior Java Developer transitioni
 * Improving my Python proficiency.
 * Learning Docker containerization, implementing CI/CD pipelines.
 
+* [![trophy](https://github-profile-trophy.vercel.app/?robytm25=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## Connect with Me
 
 * [LinkedIn] https://www.linkedin.com/in/robert-stefan-adam/
