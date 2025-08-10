@@ -1,36 +1,70 @@
 # Hi there 👋 I'm Robert
 
-Welcome to my GitHub profile! I'm a Full Stack Junior Java Developer transitioning to Python-Django, currently working on building a web application.
+Welcome to my GitHub profile! 
+
+**NOC Engineer | Telecommunications | Continuous Learner**
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=robytm25&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+## 🚀 About Me
 
-## About Me
+I’m a **NOC Engineer** with over 3 years of experience in **telecommunications** (RAN, Core, and Transport Networks) at Vodafone (_VOIS).  
+I thrive in **dynamic environments**, building and optimizing processes from scratch, and continuously expanding my technical and language skills.
 
-* I recently completed a 9-month Full Stack Java Developer course, gaining a solid foundation in backend and frontend development.
-* Currently, at _VOIS, beside my day by day workflow,  I'm diving into Python and Django, building a full-stack web application from scratch. This is a challenging but exciting opportunity to expand my skillset.
-* I'm eager to learn and grow as a developer, and I'm particularly interested in exploring the Python ecosystem and building robust web applications.
+---
 
-## My Skills (Expanding)
+## 💼 Professional Experience
 
-* **Languages:** Java, Python (learning), JavaScript, HTML, CSS, SQL
+### **Vodafone Technologies (_VOIS)** — NOC Engineer RAN HU & OXG  
+*Oct 2021 – Present (3y 10m)*  
+- Monitored **2G, 3G, 4G** networks using fault management systems and NMS tools.  
+- Investigated alarms on **RAN, Core, and Transport Networks** (GSM, UMTS, LTE, SDH, DWDM, ATM, IP).  
+- Created **technical documentation & procedures** from scratch for new projects.  
+- Participated in **OSS training sessions**, tested use cases in FUT phase, and improved processes.  
+- Transitioning to **DSL IP team**, gaining expertise in DSL and WDM.  
+
+**Key Achievements**  
+- Contributed to **OXG project build** from scratch over 1+ year.  
+- Played a pivotal role in **VDF HU NOC services handover** (Terra project).  
+- Recognized for **process optimization** and customer satisfaction improvements.
+
+---
+
+## 🎓 Education
+- **Bachelor’s Degree in Management** — *Spiru Haret University* (2020 – 2023)  
+
+---
+
+## 🛠 Skills & Tools
+
+**Telecom & Networking**: GSM, UMTS, LTE, SDH, DWDM, ATM, IP  
+**Programming**: Java (Junior Java Developer Certificate – SDAcademy), python(learning)
 * **Frameworks:** Spring Boot (familiar), Django (learning)
 * **Tools:** Git, IntelliJ IDEA, VS Code, Docker, SQL
+**Soft Skills**: Problem-solving, Teamwork, Continuous Learning  
+**Languages**: Hungarian (Advanced), English (Advanced), Romanian (Advanced), German (Intermediate/Beginner)  
+
+---
 
 ## Featured Projects
 
 * **Vending Machine** A Java console application simulating a vending machine. Users can select items, insert money, and receive their purchase with correct change. https://github.com/robytm25/Vendingmachine
 * **Fleet Management System** A Fleet Management System designed to track and manage a group of vehicles. It handles vehicle information, maintenance schedules, and potentially other fleet-related operations. https://github.com/robytm25/Vendingmachine
 
-## Current Focus
+---
 
-* Building a full-stack web application using Python-Django for my team
-* Deepening my understanding of the Django framework and best practices.
-* Improving my Python proficiency.
-* Learning Docker containerization, implementing CI/CD pipelines.
+## 📌 What I’m Currently Working On
+- Expanding **IP networking** expertise.  
+- Supporting ongoing **OXG** and **DSL IP** projects.  
+- Learning **German** for better cross-team collaboration.  
+- Expanding **Programmring skills both in Java and Python** 
 
-## Connect with Me
+---
 
-* [LinkedIn] https://www.linkedin.com/in/robert-stefan-adam/
-* [GitLab] https://gitlab.com/adamrobertstefan
+## 📫 Connect with Me
+- **Email**: adamrobertstefan@gmail.com    
+- **GitHub**: *(This page!)*  
 
-Feel free to connect and follow my progress as I build my Python-Django skills!
+---
+> _"Adaptability and continuous learning are the keys to thriving in tech."_
+
