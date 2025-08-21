@@ -67,6 +67,7 @@ I thrive in **dynamic environments**, building and optimizing processes from scr
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=robytm25&theme=react-dark)
 
+<!--END_SECTION:activity-->
 
 
 ## 📫 Connect with Me
