@@ -60,7 +60,7 @@ I thrive in **dynamic environments**, building and optimizing processes from scr
 - Expanding **Programmring skills both in Java and Python**
 
 
-(https://github-readme-stats.vercel.app/api?username=robytm25&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=robytm25&show_icons=true&theme=tokyonight)
 
 ---
 
