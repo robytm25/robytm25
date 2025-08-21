@@ -57,7 +57,10 @@ I thrive in **dynamic environments**, building and optimizing processes from scr
 - Expanding **IP networking** expertise.  
 - Supporting ongoing **OXG** and **DSL IP** projects.  
 - Learning **German** for better cross-team collaboration.  
-- Expanding **Programmring skills both in Java and Python** 
+- Expanding **Programmring skills both in Java and Python**
+
+
+(https://github-readme-stats.vercel.app/api?username=robytm25&show_icons=true&theme=tokyonight)
 
 ---
 
